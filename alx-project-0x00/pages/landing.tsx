@@ -19,6 +19,10 @@ const Landing: React.FC = () => {
           title="button 2"
           styles="text-green-500 bg-white w-fit rounded-full px-4"
         />
+        <Button
+          title="button 2"
+          styles="text-green-500 bg-white w-fit rounded-lg px-4"
+        />
       </div>
     </div>
   );
