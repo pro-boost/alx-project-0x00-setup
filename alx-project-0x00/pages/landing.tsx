@@ -9,15 +9,15 @@ const Landing: React.FC = () => {
       <div className="flex flex-col justify-center gap-4">
         <Button
           title="button 1 "
-          style="text-red-500 bg-white w-fit rounded-sm px-4"
+          styles="text-red-500 bg-white w-fit rounded-sm px-4"
         />
         <Button
           title="button 2"
-          style="text-blue-500 bg-white w-fit rounded-md px-4"
+          styles="text-blue-500 bg-white w-fit rounded-md px-4"
         />
         <Button
           title="button 2"
-          style="text-green-500 bg-white w-fit rounded-lg px-4"
+          styles="text-green-500 bg-white w-fit rounded-full px-4"
         />
       </div>
     </div>
